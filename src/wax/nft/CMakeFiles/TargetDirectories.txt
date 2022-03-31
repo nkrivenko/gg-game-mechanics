@@ -1,0 +1,3 @@
+/code/src/wax/nft/CMakeFiles/rebuild_cache.dir
+/code/src/wax/nft/CMakeFiles/nft_project.dir
+/code/src/wax/nft/CMakeFiles/edit_cache.dir

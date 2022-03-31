@@ -1,0 +1,53 @@
+{
+  "nkrivenkotc3": [
+    {
+      "schema_name": "tools",
+      "format": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "code",
+          "type": "string"
+        },
+        {
+          "name": "category",
+          "type": "string"
+        },
+        {
+          "name": "img",
+          "type": "image"
+        },
+        {
+          "name": "max_usages",
+          "type": "uint32"
+        },
+        {
+          "name": "cd",
+          "type": "uint32"
+        },
+        {
+          "name": "mint",
+          "type": "int64"
+        },
+        {
+          "name": "energy_consumption",
+          "type": "uint32"
+        },
+        {
+          "name": "rarity",
+          "type": "uint32"
+        },
+        {
+          "name": "used",
+          "type": "uint32"
+        },
+        {
+          "name": "last_usage",
+          "type": "uint32"
+        }
+      ]
+    }
+  ]
+}

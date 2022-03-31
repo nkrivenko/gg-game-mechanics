@@ -1,0 +1,6 @@
+*-prefix/
+*.cmake
+CMakeCache,txt
+nodeos.log
+node_modules/
+

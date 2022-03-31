@@ -1,0 +1,14 @@
+# Target labels
+ ft_project
+# Source files and their labels
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/CMakeFiles/ft_project
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/CMakeFiles/ft_project.rule
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/CMakeFiles/ft_project-complete.rule
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-install.rule
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-mkdir.rule
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-download.rule
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-update.rule
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-patch.rule
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-configure.rule
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-build.rule
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-test.rule

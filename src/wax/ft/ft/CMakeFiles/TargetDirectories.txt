@@ -1,0 +1,3 @@
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft/CMakeFiles/rebuild_cache.dir
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft/CMakeFiles/edit_cache.dir
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft/CMakeFiles/ft.dir

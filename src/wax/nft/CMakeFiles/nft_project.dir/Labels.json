@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/code/src/wax/nft/CMakeFiles/nft_project"
+		},
+		{
+			"file" : "/code/src/wax/nft/CMakeFiles/nft_project.rule"
+		},
+		{
+			"file" : "/code/src/wax/nft/CMakeFiles/nft_project-complete.rule"
+		},
+		{
+			"file" : "/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-install.rule"
+		},
+		{
+			"file" : "/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-mkdir.rule"
+		},
+		{
+			"file" : "/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-download.rule"
+		},
+		{
+			"file" : "/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-update.rule"
+		},
+		{
+			"file" : "/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-patch.rule"
+		},
+		{
+			"file" : "/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-configure.rule"
+		},
+		{
+			"file" : "/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-build.rule"
+		},
+		{
+			"file" : "/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nft_project"
+		],
+		"name" : "nft_project"
+	}
+}

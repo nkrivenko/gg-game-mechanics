@@ -1,0 +1,24 @@
+{
+    "nft": [
+        {
+            "asset_owner": "user1",
+            "category": "water",
+            "asset_id": 1099528372160
+        },
+        {
+            "asset_owner": "user1",
+            "category": "water",
+            "asset_id": 1099529414676
+        },
+        {
+            "asset_owner": "user3",
+            "category": "water",
+            "asset_id": 1099529415673
+        },
+        {
+            "asset_owner": "user3",
+            "category": "metal",
+            "asset_id": 1099529415915
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "nft",
+  "version": "1.0.0",
+  "description": "Testing nft smart contract with Hydra",
+  "main": "",
+  "scripts": {
+    "test": "jest --detectOpenHandles --max-old-space-size=2048 --logHeapUsage --bail"
+  },
+  "dependencies": {
+    "@klevoya/hydra": "*",
+    "atomicassets": "^1.4.2",
+    "jest": "^25.1.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.1.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": ""
+}

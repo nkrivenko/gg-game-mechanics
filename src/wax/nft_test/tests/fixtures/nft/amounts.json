@@ -1,0 +1,16 @@
+{
+    "nft": [
+        {
+            "id": 1,
+            "asset_owner": "user1",
+            "category": "water",
+            "nft_amount": 1
+        },
+        {
+            "id": 2,
+            "asset_owner": "user3",
+            "category": "water",
+            "nft_amount": 2
+        }
+    ]
+}

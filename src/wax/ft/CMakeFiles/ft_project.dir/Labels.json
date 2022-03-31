@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/CMakeFiles/ft_project"
+		},
+		{
+			"file" : "/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/CMakeFiles/ft_project.rule"
+		},
+		{
+			"file" : "/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/CMakeFiles/ft_project-complete.rule"
+		},
+		{
+			"file" : "/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-install.rule"
+		},
+		{
+			"file" : "/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-mkdir.rule"
+		},
+		{
+			"file" : "/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-download.rule"
+		},
+		{
+			"file" : "/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-update.rule"
+		},
+		{
+			"file" : "/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-patch.rule"
+		},
+		{
+			"file" : "/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-configure.rule"
+		},
+		{
+			"file" : "/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-build.rule"
+		},
+		{
+			"file" : "/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft_project-prefix/src/ft_project-stamp/ft_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ft_project"
+		],
+		"name" : "ft_project"
+	}
+}

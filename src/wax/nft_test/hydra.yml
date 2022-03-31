@@ -1,0 +1,19 @@
+contracts:
+  nft:
+    abi: build/nft.abi
+    fixturesDir: tests/fixtures/nft
+    name: nft
+    wasm: build/nft.wasm
+  ft:
+    abi: build/ft.abi
+    fixturesDir: tests/fixtures/ft
+    name: ft
+    wasm: build/ft.wasm
+  atomicassets:
+    abi: build/atomicassets.abi
+    fixturesDir: tests/fixtures/atomicassets
+    name: atomicassets
+    wasm: build/atomicassets.wasm
+options: null
+  # serverBaseUrl: http://178.205.254.170:38888
+  # skipAuth: true

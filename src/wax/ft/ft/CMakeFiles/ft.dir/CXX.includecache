@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/include/eosio.token/eosio.token.hpp
+eosio/asset.hpp
+-
+eosio/eosio.hpp
+-
+string
+-
+hydra.hpp
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/include/eosio.token/hydra.hpp
+
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/include/eosio.token/hydra.hpp
+eosio/eosio.hpp
+-
+eosio/print.hpp
+-
+
+/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/src/eosio.token.cpp
+eosio.token/eosio.token.hpp
+-
+

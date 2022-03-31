@@ -1,0 +1,1 @@
+/usr/local/eosio.cdt/bin/eosio-ld  CMakeFiles/nft.dir/nft.obj -o nft.wasm 

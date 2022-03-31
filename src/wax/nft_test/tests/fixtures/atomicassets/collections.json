@@ -1,0 +1,11 @@
+{
+    "atomicassets": [{
+        "collection_name": "nkrivenkotc3",
+        "author": "user1",
+        "allow_notify": true,
+        "authorized_accounts": ["nft"],
+        "notify_accounts": [],
+        "market_fee": 0.05,
+        "serialized_data": []
+    }]
+}

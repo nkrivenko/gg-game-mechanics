@@ -1,0 +1,23 @@
+{
+    "GF": [
+        {
+            "supply": "3000.0000 GF",
+            "max_supply": "10000000000.0000 GF",
+            "issuer": "ggttokenwat1"
+        }
+    ],
+    "GM": [
+        {
+            "supply": "3000.0000 GM",
+            "max_supply": "10000000000.0000 GM",
+            "issuer": "ggttokenwat1"
+        }
+    ],
+    "GW": [
+        {
+            "supply": "3000.0000 GW",
+            "max_supply": "10000000000.0000 GW",
+            "issuer": "ggttokenwat1"
+        }
+    ]
+}

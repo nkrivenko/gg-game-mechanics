@@ -1,0 +1,1 @@
+/usr/bin/eosio-ld  CMakeFiles/ft.dir/eosio.token.obj -o ft.wasm 

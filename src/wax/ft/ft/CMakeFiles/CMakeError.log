@@ -1,0 +1,86 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/eosio-cc 
+Build flags: -O3
+Id flags:  
+
+The output was:
+255
+wasm-ld: error: fatal failure: contract with no actions and trying to create dispatcher
+Exit due to wasm-ld failure
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/eosio-cpp 
+Build flags: -O3
+Id flags:  
+
+The output was:
+255
+wasm-ld: error: fatal failure: contract with no actions and trying to create dispatcher
+Exit due to wasm-ld failure
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_80975/fast && make[3]: Entering directory '/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_80975.dir/build.make CMakeFiles/cmTC_80975.dir/build
+make[4]: Entering directory '/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_80975.dir/CMakeCCompilerABI.c.obj
+/usr/bin/eosio-cc   -O3    -v -o CMakeFiles/cmTC_80975.dir/CMakeCCompilerABI.c.obj   -c /usr/share/cmake-3.16/Modules/CMakeCCompilerABI.c
+clang version 9.0.1 (https://github.com/eosio/clang.git 6a2b43d5cb01f666af0dbfb31a3cbf2e17967909) (https://github.com/eosio/llvm d700c78db1918c7a2783c37a97d42d6fcd223e4d)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+InstalledDir: /home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft/CMakeFiles/CMakeTmp
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/7
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/7.5.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/8
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/9
+Selected GCC installation: /usr/lib/gcc/x86_64-linux-gnu/9
+Candidate multilib: .;@m64
+Selected multilib: .;@m64
+Linking C executable cmTC_80975.wasm
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_80975.dir/link.txt --verbose=1
+/usr/bin/eosio-ld  -v CMakeFiles/cmTC_80975.dir/CMakeCCompilerABI.c.obj -o cmTC_80975.wasm 
+eosio-ld: Unknown command line argument '-v'.  Try: '/usr/bin/eosio-ld --help'
+eosio-ld: Did you mean '  -L'?
+make[4]: *** [CMakeFiles/cmTC_80975.dir/build.make:87: cmTC_80975.wasm] Error 1
+make[4]: Leaving directory '/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft/CMakeFiles/CMakeTmp'
+make[3]: *** [Makefile:121: cmTC_80975/fast] Error 2
+make[3]: Leaving directory '/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1de64/fast && make[3]: Entering directory '/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_1de64.dir/build.make CMakeFiles/cmTC_1de64.dir/build
+make[4]: Entering directory '/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_1de64.dir/CMakeCXXCompilerABI.cpp.obj
+/usr/bin/eosio-cpp    -O3    -v -o CMakeFiles/cmTC_1de64.dir/CMakeCXXCompilerABI.cpp.obj -c /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp
+clang version 9.0.1 (https://github.com/eosio/clang.git 6a2b43d5cb01f666af0dbfb31a3cbf2e17967909) (https://github.com/eosio/llvm d700c78db1918c7a2783c37a97d42d6fcd223e4d)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+InstalledDir: /home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft/CMakeFiles/CMakeTmp
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/7
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/7.5.0
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/8
+Found candidate GCC installation: /usr/lib/gcc/x86_64-linux-gnu/9
+Selected GCC installation: /usr/lib/gcc/x86_64-linux-gnu/9
+Candidate multilib: .;@m64
+Selected multilib: .;@m64
+Linking CXX executable cmTC_1de64.wasm
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1de64.dir/link.txt --verbose=1
+/usr/bin/eosio-ld  -v CMakeFiles/cmTC_1de64.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_1de64.wasm 
+eosio-ld: Unknown command line argument '-v'.  Try: '/usr/bin/eosio-ld --help'
+eosio-ld: Did you mean '  -L'?
+make[4]: *** [CMakeFiles/cmTC_1de64.dir/build.make:87: cmTC_1de64.wasm] Error 1
+make[4]: Leaving directory '/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft/CMakeFiles/CMakeTmp'
+make[3]: *** [Makefile:121: cmTC_1de64/fast] Error 2
+make[3]: Leaving directory '/home/nkrivenko/Documents/Работа/smart-contracts/ggt-wax-nft/src/wax/ft/ft/CMakeFiles/CMakeTmp'
+
+
+
+

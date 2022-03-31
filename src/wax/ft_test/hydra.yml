@@ -1,0 +1,7 @@
+contracts:
+  ft:
+    abi: build/ft.abi
+    fixturesDir: tests/fixtures/ft
+    name: ft
+    wasm: build/ft.wasm
+options: null

@@ -1,0 +1,166 @@
+{
+    "user1": [
+        {
+            "asset_id": 1099528379478,
+            "collection_name": "nkrivenkotc3",
+            "schema_name": "tools",
+            "template_id": 340996,
+            "ram_payer": "user1",
+            "backed_tokens": [],
+            "immutable_serialized_data": [],
+            "mutable_serialized_data": [
+                13,
+                0,
+                14,
+                0
+            ]
+        }
+    ],
+    "user3": [
+        {
+            "asset_id": 1099528379479,
+            "collection_name": "nkrivenkotc3",
+            "schema_name": "tools",
+            "template_id": 340996,
+            "ram_payer": "user1",
+            "backed_tokens": [],
+            "immutable_serialized_data": [],
+            "mutable_serialized_data": [
+                13,
+                0,
+                14,
+                0
+            ]
+        }
+    ],
+    "nft": [
+        {
+            "asset_id": 1099528372160,
+            "collection_name": "nkrivenkotc3",
+            "schema_name": "tools",
+            "template_id": 340996,
+            "ram_payer": "nft",
+            "backed_tokens": [],
+            "immutable_serialized_data": [],
+            "mutable_serialized_data": [
+                13,
+                0,
+                14,
+                0
+            ]
+        },
+        {
+            "asset_id": 1099529414676,
+            "collection_name": "nkrivenkotc3",
+            "schema_name": "tools",
+            "template_id": 397692,
+            "ram_payer": "nft",
+            "backed_tokens": [],
+            "immutable_serialized_data": [],
+            "mutable_serialized_data": [
+                13,
+                100,
+                14,
+                1
+            ]
+        },
+        {
+            "asset_id": 1099529415630,
+            "collection_name": "nkrivenkotc3",
+            "schema_name": "tools",
+            "template_id": 397703,
+            "ram_payer": "nft",
+            "backed_tokens": [],
+            "immutable_serialized_data": [],
+            "mutable_serialized_data": [
+                13,
+                100,
+                14,
+                1
+            ]
+        },
+        {
+            "asset_id": 1099529415649,
+            "collection_name": "nkrivenkotc3",
+            "schema_name": "tools",
+            "template_id": 397703,
+            "ram_payer": "nft",
+            "backed_tokens": [],
+            "immutable_serialized_data": [],
+            "mutable_serialized_data": [
+                13,
+                100,
+                14,
+                128,
+                148,
+                235,
+                220,
+                3
+            ]
+        },
+        {
+            "asset_id": 1099529415650,
+            "collection_name": "nkrivenkotc3",
+            "schema_name": "tools",
+            "template_id": 340996,
+            "ram_payer": "nft",
+            "backed_tokens": [],
+            "immutable_serialized_data": [],
+            "mutable_serialized_data": [
+                13,
+                0,
+                14,
+                100
+            ]
+        },
+        {
+            "asset_id": 1099529415673,
+            "collection_name": "nkrivenkotc3",
+            "schema_name": "tools",
+            "template_id": 340996,
+            "ram_payer": "nft",
+            "backed_tokens": [],
+            "immutable_serialized_data": [],
+            "mutable_serialized_data": [
+                13,
+                100,
+                14,
+                100
+            ]
+        },
+        {
+            "asset_id": 1099529415674,
+            "collection_name": "nkrivenkotc3",
+            "schema_name": "tools",
+            "template_id": 397739,
+            "ram_payer": "nft",
+            "backed_tokens": [],
+            "immutable_serialized_data": [],
+            "mutable_serialized_data": [
+                13,
+                0,
+                14,
+                128,
+                148,
+                235,
+                220,
+                3
+            ]
+        },
+        {
+            "asset_id": 1099529415915,
+            "collection_name": "nkrivenkotc3",
+            "schema_name": "tools",
+            "template_id": 397746,
+            "ram_payer": "nkrivenko351",
+            "backed_tokens": [],
+            "immutable_serialized_data": [],
+            "mutable_serialized_data": [
+                13,
+                0,
+                14,
+                0
+            ]
+        }
+    ]
+}

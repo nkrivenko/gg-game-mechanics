@@ -1,0 +1,14 @@
+# Target labels
+ nft_project
+# Source files and their labels
+/code/src/wax/nft/CMakeFiles/nft_project
+/code/src/wax/nft/CMakeFiles/nft_project.rule
+/code/src/wax/nft/CMakeFiles/nft_project-complete.rule
+/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-install.rule
+/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-mkdir.rule
+/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-download.rule
+/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-update.rule
+/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-patch.rule
+/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-configure.rule
+/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-build.rule
+/code/src/wax/nft/nft_project-prefix/src/nft_project-stamp/nft_project-test.rule

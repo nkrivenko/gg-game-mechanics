@@ -1,0 +1,22 @@
+x-cdt-name: &cdt-name waxcdt
+x-dev-name: &dev-name waxdev
+x-wax-volume: &wax-volume
+  - ./:/code/
+x-interactive: &interactive
+  stdin_open: true
+  tty: true
+
+version: '3.9'
+services:
+  cdt:
+    container_name: *cdt-name
+    image: waxteam/cdt:wax-1.6.1-1.0.0
+    hostname: *cdt-name
+    volumes: *wax-volume
+    <<: *interactive
+  dev:
+    image: waxteam/dev:wax-1.6.1-2.0.12
+    volumes: *wax-volume
+    container_name: *dev-name
+    hostname: *dev-name
+    <<: *interactive

@@ -1,0 +1,343 @@
+{
+    "____comment": "This file was generated with eosio-abigen. DO NOT EDIT ",
+    "version": "eosio::abi/1.1",
+    "types": [],
+    "structs": [
+        {
+            "name": "accounts_s",
+            "base": "",
+            "fields": [
+                {
+                    "name": "owner",
+                    "type": "name"
+                },
+                {
+                    "name": "energy",
+                    "type": "uint32"
+                },
+                {
+                    "name": "quantities",
+                    "type": "asset[]"
+                }
+            ]
+        },
+        {
+            "name": "addasset",
+            "base": "",
+            "fields": [
+                {
+                    "name": "asset_code",
+                    "type": "name"
+                },
+                {
+                    "name": "collection_name",
+                    "type": "name"
+                },
+                {
+                    "name": "schema_name",
+                    "type": "name"
+                },
+                {
+                    "name": "template_id",
+                    "type": "int32"
+                },
+                {
+                    "name": "craft_energy_consumption",
+                    "type": "uint32"
+                },
+                {
+                    "name": "repair_energy_consumption",
+                    "type": "uint32"
+                },
+                {
+                    "name": "craft_resources",
+                    "type": "asset[]"
+                },
+                {
+                    "name": "repair_resources",
+                    "type": "asset[]"
+                },
+                {
+                    "name": "description",
+                    "type": "string"
+                },
+                {
+                    "name": "comment",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "amounts_s",
+            "base": "",
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "uint64"
+                },
+                {
+                    "name": "asset_owner",
+                    "type": "name"
+                },
+                {
+                    "name": "category",
+                    "type": "name"
+                },
+                {
+                    "name": "nft_amount",
+                    "type": "uint64"
+                }
+            ]
+        },
+        {
+            "name": "cards_s",
+            "base": "",
+            "fields": [
+                {
+                    "name": "asset_owner",
+                    "type": "name"
+                },
+                {
+                    "name": "category",
+                    "type": "name"
+                },
+                {
+                    "name": "asset_id",
+                    "type": "uint64"
+                }
+            ]
+        },
+        {
+            "name": "consumefood",
+            "base": "",
+            "fields": [
+                {
+                    "name": "account",
+                    "type": "name"
+                },
+                {
+                    "name": "food_to_consume",
+                    "type": "asset"
+                }
+            ]
+        },
+        {
+            "name": "craft",
+            "base": "",
+            "fields": [
+                {
+                    "name": "asset_code",
+                    "type": "name"
+                },
+                {
+                    "name": "asset_owner",
+                    "type": "name"
+                }
+            ]
+        },
+        {
+            "name": "hydraload",
+            "base": "",
+            "fields": [
+                {
+                    "name": "payload",
+                    "type": "hydraload_payload[]"
+                }
+            ]
+        },
+        {
+            "name": "hydraload_payload",
+            "base": "",
+            "fields": [
+                {
+                    "name": "table_name",
+                    "type": "name"
+                },
+                {
+                    "name": "scope",
+                    "type": "name"
+                },
+                {
+                    "name": "row_data",
+                    "type": "bytes"
+                }
+            ]
+        },
+        {
+            "name": "mine",
+            "base": "",
+            "fields": [
+                {
+                    "name": "asset_owner",
+                    "type": "name"
+                },
+                {
+                    "name": "asset_id",
+                    "type": "uint64"
+                },
+                {
+                    "name": "memo",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "remasset",
+            "base": "",
+            "fields": [
+                {
+                    "name": "asset_code",
+                    "type": "name"
+                }
+            ]
+        },
+        {
+            "name": "repair",
+            "base": "",
+            "fields": [
+                {
+                    "name": "asset_owner",
+                    "type": "name"
+                },
+                {
+                    "name": "asset_id",
+                    "type": "uint64"
+                }
+            ]
+        },
+        {
+            "name": "tools_s",
+            "base": "",
+            "fields": [
+                {
+                    "name": "asset_code",
+                    "type": "name"
+                },
+                {
+                    "name": "collection_name",
+                    "type": "name"
+                },
+                {
+                    "name": "schema_name",
+                    "type": "name"
+                },
+                {
+                    "name": "template_id",
+                    "type": "int32"
+                },
+                {
+                    "name": "craft_energy_consumption",
+                    "type": "uint32"
+                },
+                {
+                    "name": "repair_energy_consumption",
+                    "type": "uint32"
+                },
+                {
+                    "name": "craft_resources",
+                    "type": "asset[]"
+                },
+                {
+                    "name": "repair_resources",
+                    "type": "asset[]"
+                },
+                {
+                    "name": "description",
+                    "type": "string"
+                },
+                {
+                    "name": "comment",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "unstakenft",
+            "base": "",
+            "fields": [
+                {
+                    "name": "asset_owner",
+                    "type": "name"
+                },
+                {
+                    "name": "asset_id",
+                    "type": "uint64"
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "addasset",
+            "type": "addasset",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "consumefood",
+            "type": "consumefood",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "craft",
+            "type": "craft",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "hydraload",
+            "type": "hydraload",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "mine",
+            "type": "mine",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "remasset",
+            "type": "remasset",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "repair",
+            "type": "repair",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "unstakenft",
+            "type": "unstakenft",
+            "ricardian_contract": ""
+        }
+    ],
+    "tables": [
+        {
+            "name": "accounts",
+            "type": "accounts_s",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        },
+        {
+            "name": "amounts",
+            "type": "amounts_s",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        },
+        {
+            "name": "assets",
+            "type": "cards_s",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        },
+        {
+            "name": "nfts",
+            "type": "tools_s",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        }
+    ],
+    "ricardian_clauses": [],
+    "variants": []
+}

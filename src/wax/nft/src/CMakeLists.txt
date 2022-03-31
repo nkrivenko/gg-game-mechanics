@@ -1,0 +1,10 @@
+project(nft)
+
+set(EOSIO_WASM_OLD_BEHAVIOR "Off")
+find_package(eosio.cdt)
+
+set(CMAKE_CXX_FLAGS "-Oz -Wall -Wextra")
+
+add_contract( nft nft nft.cpp )
+target_include_directories( nft PUBLIC ${CMAKE_SOURCE_DIR}/../include /usr/local/include )
+target_ricardian_directory( nft ${CMAKE_SOURCE_DIR}/../ricardian )

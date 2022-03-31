@@ -1,0 +1,35 @@
+{
+    "user1": [
+        {
+            "balance": "1000.0000 GF"
+        },
+        {
+            "balance": "1000.0000 GW"
+        },
+        {
+            "balance":  "1000.0000 GM"
+        }
+    ],
+    "user2": [
+        {
+            "balance": "1000.0000 GF"
+        },
+        {
+            "balance": "1000.0000 GW"
+        },
+        {
+            "balance":  "1000.0000 GM"
+        }
+    ],
+    "nkrivenko351": [
+        {
+            "balance": "1000.0000 GF"
+        },
+        {
+            "balance": "1000.0000 GW"
+        },
+        {
+            "balance":  "1000.0000 GM"
+        }
+    ]
+}

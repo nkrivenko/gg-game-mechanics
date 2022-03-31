@@ -1,0 +1,58 @@
+{
+    "nft": [
+        {
+            "asset_code": "simplefilter",
+            "collection_name": "nkrivenkotc3",
+            "schema_name": "tools",
+            "template_id": 340996,
+            "craft_energy_consumption": 3,
+            "repair_energy_consumption": 1,
+            "craft_resources": [
+                "10.0000 GM",
+                "12.0000 GF"
+            ],
+            "repair_resources": [
+                "2.0000 GM",
+                "3.0000 GF"
+            ],
+            "description": "The simplest device for water purification from mechanical, insoluble particles, impurities, chlorine and its derivatives.",
+            "comment": "I hope this thing will help me not to die of thirst. At least not right away."
+        },
+        {
+            "asset_code": "reverseosmos",
+            "collection_name": "nkrivenkotc3",
+            "schema_name": "tools",
+            "template_id": 397692,
+            "craft_energy_consumption": 3,
+            "repair_energy_consumption": 1,
+            "craft_resources": [
+                "1000.0000 GM",
+                "1200.0000 GF"
+            ],
+            "repair_resources": [
+                "2000.0000 GM",
+                "3000.0000 GF"
+            ],
+            "description": "A stream of water is forced through the membrane, completely removing salts, nitrites, arsenic, cyanides, asbestos, fluorine, lead, sulfates and iron.",
+            "comment": "I like when the device works quickly. I wish the water wasn't so tasteless."
+        },
+        {
+            "asset_code": "boiler",
+            "collection_name": "nkrivenkotc3",
+            "schema_name": "tools",
+            "template_id": 397703,
+            "craft_energy_consumption": 3000,
+            "repair_energy_consumption": 1000,
+            "craft_resources": [
+                "10.0000 GM",
+                "10.0000 GF"
+            ],
+            "repair_resources": [
+                "2.0000 GM",
+                "3.0000 GF"
+            ],
+            "description": "It makes possible to obtain a distillate suitable for drinking from polluted water. It's better to mineralize the water afterwards.",
+            "comment": "With this boiler you will have to be patient. But the water is perfectly clear. Even too..."
+        }
+    ]
+}
